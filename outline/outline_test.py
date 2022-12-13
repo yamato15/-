@@ -5,7 +5,7 @@ import numpy as np
 frameWidth = 640
 frameHeight = 480
 
-cap = cv2.VideoCapture('videos/rectangle.mp4')
+cap = cv2.VideoCapture('C:\\Users\\move0\\画像処理\\IMG_5151.mp4')
 #cap = cv2.VideoCapture(0)
 
 # Properties
